@@ -1,14 +1,11 @@
-# student-score-analyzer
-What it does
+# Student Score Analyzer
 
-Reads a CSV file with student scores
+This project analyzes student exam scores using Python and Pandas.
+It calculates average scores, highest and lowest results, and pass rates.
 
-Calculates:
+## Tools
+- Python
+- Pandas
 
-average
-
-highest / lowest score
-
-pass rate
-
-Displays results cleanly
+## Purpose
+This project demonstrates basic data analysis skills and logical thinking.
